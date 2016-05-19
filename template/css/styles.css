@@ -1,0 +1,185 @@
+@import url('http://fonts.googleapis.com/earlyaccess/nanumgothic.css');
+
+/*@font-face {
+  font-family: 'NanumGothic';
+  font-style: normal;
+  font-weight: 700;
+  src: url(//themes.googleusercontent.com/static/fonts/earlyaccess/nanumgothic/v3/NanumGothic-Bold.eot);
+  src: url(//themes.googleusercontent.com/static/fonts/earlyaccess/nanumgothic/v3/NanumGothic-Bold.eot?#iefix) format('embedded-opentype'),
+       url(//themes.googleusercontent.com/static/fonts/earlyaccess/nanumgothic/v3/NanumGothic-Bold.woff2) format('woff2'),
+       url(//themes.googleusercontent.com/static/fonts/earlyaccess/nanumgothic/v3/NanumGothic-Bold.woff) format('woff'),
+       url(//themes.googleusercontent.com/static/fonts/earlyaccess/nanumgothic/v3/NanumGothic-Bold.ttf) format('truetype');
+}*/
+
+a:hover {
+	text-decoration: none;
+	color: #FFFFFF;
+	cursor: pointer;
+}
+
+.btn-flat_white {
+	color: #FFFFFF;
+}
+
+.login .content {
+	width: 400px;
+	height: 520px;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	margin-left: -200px;
+	margin-top: -255px;
+}
+
+.login .content2 {
+	width: 400px;
+	height: 305px;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	margin-left: -200px;
+	margin-top: -155px;
+}
+
+.login .content .login-form,
+.login .content .forget-form {
+	padding: 0px;
+	margin: 0px;
+}
+
+.login .content .register-form {
+	border: 0;
+	margin-bottom: 0;
+	padding-bottom: 0px;
+}
+
+.login .content h3{
+	font-size: 30px;
+	color: #FFFFFF;
+	font-weight: normal;
+	font-family: 'Nanum Gothic';
+	margin-left: 20px;
+	margin-top: 20px;
+}
+
+.login .content p{
+	font-size: 15px;
+	color: #FFFFFF;
+	font-weight: normal;
+	font-family: 'Nanum Gothic';
+	margin-left: 20px;
+}
+
+.login .content .control-group {
+	margin-bottom: 20px;
+}
+
+/* Content2 CLASS */
+.login .content2 .login-form,
+.login .content2 .forget-form {
+	padding: 0px;
+	margin: 0px;
+}
+
+.login .content2 .register-form {
+	border: 0;
+	margin-bottom: 0;
+	padding-bottom: 0px;
+}
+
+.login .content2 h3{
+	font-size: 30px;
+	color: #FFFFFF;
+	font-weight: normal;
+	font-family: 'Nanum Gothic';
+	margin-left: 20px;
+	margin-top: 20px;
+}
+
+.login .content2 p{
+	font-size: 15px;
+	color: #FFFFFF;
+	font-weight: normal;
+	font-family: 'Nanum Gothic';
+	margin-left: 20px;
+}
+
+.login .content2 .control-group {
+	margin-bottom: 20px;
+}
+
+.input-field {
+	font-family: 'Nanum Gothic';
+}
+
+textarea:focus, input:focus {
+	color: #FFFFFF;
+}
+
+.input-field .summary_l {
+	color: #FFFFFF;
+	margin-left: 10px;
+}
+
+.input-field .summary_l2 {
+	color: #FFFFFF;
+}
+
+.input-field .passwordBox1 {
+	margin-left: 10px;
+	color: #FFFFFF;
+	-webkit-box-sizing: border-box;
+  	-moz-box-sizing: border-box;
+  	box-sizing: border-box;
+}
+
+.input-field .passwordBox2 {
+	margin-right: 20px;
+	color: #FFFFFF;
+	-webkit-box-sizing: border-box;
+  	-moz-box-sizing: border-box;
+  	box-sizing: border-box;
+}
+
+.input-field .inputBox {
+	width: 355px;
+	margin-left: 20px;
+	margin-right: 20px;
+	color: #FFFFFF;
+	-webkit-box-sizing: border-box;
+  	-moz-box-sizing: border-box;
+  	box-sizing: border-box;
+}
+
+.input-field .inputBoxMarginB {
+	margin-bottom: 25px;
+}
+
+.row {
+	margin-right: 16px;
+}
+
+.input-field input[type=email].invalid {
+     border-bottom: 1px solid #b71c1c;
+     box-shadow: 0 1px 0 0 #b71c1c;
+}
+
+.select-wrapper-coin {
+	margin-left: 20px;
+	margin-right: 35px;
+}
+
+.NanumFont {
+	font-family: 'Nanum Gothic';
+}
+
+.card-align-right {
+	text-align: right;
+	margin-right: -10px;
+}
+
+.button_request {
+	margin-top: -6px;
+	padding: 0;
+	margin-right: 15px;
+}
